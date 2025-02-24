@@ -1,0 +1,12 @@
+# Ignore the data folder
+data/
+
+# Ignore yolov5 and labelImg (if unnecessary)
+yolov5/
+labelImg/
+
+# Ignore model weights
+*.pt
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
